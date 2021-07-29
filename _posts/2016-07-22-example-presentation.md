@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: Example Reveal.js Presentation Deck
+title: Reveal.js Presentation Deck
 excerpt: A sample file showing the correct markup for creating a Reveal.js slide deck"
 # theme: simple
 transition: convex
@@ -9,7 +9,7 @@ category: presentation
 ---
 <section data-markdown>
   <textarea data-template>
-    ## Reveal.js and Jekyll Academic
+    ## Reveal.js and Jekyll `Academic`
     ---
     ## HTML or Markdown
     Reveal.js works with either. Use whatever you are more comfortable with.
