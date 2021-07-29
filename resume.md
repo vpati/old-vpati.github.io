@@ -5,28 +5,29 @@ menutitle: Resume
 ---
 ## Currently
 
-Current Position Description
+Software/Network Engineer at SecLab
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
-
-`1995 - 1997`
-__University Name__
+`2016`
+__California State University, Fullerton__
 Degree Awarded 
 
-## Awards
+`2003`
+__Biola University__
+BS Fine Arts
+
+
+<!--## Awards
 
 `2012`
 Name of Award, Organization 
 
-## Publications
+## Publications-->
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+<!--### Journals
 
 `1994`
 Article Title, Journal Title
@@ -61,7 +62,7 @@ __Current Job Title__, Current Employer
 __Current Job Title__, Current Employer 
 
 - Task
-- Task
+- Task-->
 
 
 
