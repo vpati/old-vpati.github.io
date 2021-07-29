@@ -9,7 +9,7 @@ category: presentation
 ---
 <section data-markdown>
   <textarea data-template>
-    ## Reveal.js and Jekyll `Academic`
+    ## Reveal.js and Jekyll 'Academico'
     ---
     ## HTML or Markdown
     Reveal.js works with either. Use whatever you are more comfortable with.
